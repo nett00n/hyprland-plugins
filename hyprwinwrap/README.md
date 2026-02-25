@@ -2,6 +2,8 @@
 
 Clone of xwinwrap for hyprland.
 
+Allows you to stick an app such as a videoplayer or gif viewer to your desktop background.
+
 Example config:
 ```ini
 plugin {
